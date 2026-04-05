@@ -1,6 +1,7 @@
 SRE and Devops
 
-The best way to connect with me is through [LinkedIn](https://www.linkedin.com/in/raunak-jyotishi/). You can also explore my repositories here on [GitHub](https://github.com/ronmkr).
+The best way to connect with me is through [LinkedIn](https://www.linkedin.com/in/raunak-jyotishi/).
+You can also explore my repositories here on [GitHub](https://github.com/ronmkr).
 
 ---
 
